@@ -128,7 +128,3 @@ The anatomy is simplified, synthetic, and represented with primitive geometry. T
 - Export short video clips or animated GIFs for project pages.
 - Add automated visual regression tests for key simulator states.
 - Explore real AR registration concepts with synthetic calibration markers.
-
-## PhD / CV Relevance
-
-This project connects spatial computing, biomedical visualization, human-computer interaction, and graphics-driven simulation. It demonstrates the ability to translate a research motivation into a working technical prototype: coordinate conventions, probe pose, slice geometry, procedural image generation, interaction design, and validation are all tied together in one browser-based system. For a PhD or CV portfolio, it communicates readiness to work on AR-guided medical visualization concepts while staying safely within a synthetic, educational, non-clinical scope.
