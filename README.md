@@ -7,10 +7,6 @@
 
 A browser-based React, TypeScript, Vite, and Three.js simulator that attaches a procedurally generated ultrasound slice to a virtual probe moving over a simplified synthetic torso phantom.
 
-## Demo
-
-Live demo: _coming soon_
-
 ## Screenshots
 
 ![Portfolio preview](public/screenshots/portfolio-preview.png)
